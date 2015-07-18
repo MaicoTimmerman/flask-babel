@@ -21,7 +21,7 @@ from setuptools import setup
 setup(
     name='Flask-Babel',
     version='0.9',
-    url='http://github.com/mitsuhiko/flask-babel',
+    url='https://github.com/MaicoTimmerman/flask-babel',
     license='BSD',
     author='Armin Ronacher',
     author_email='armin.ronacher@active-4.com',
